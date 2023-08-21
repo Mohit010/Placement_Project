@@ -1,0 +1,26 @@
+#hdd{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content ul li{
+   list-style: none;
+   text-decoration: none;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   border: 2px solid red;
+   margin: 10px;
+    
+}
+.logout{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    /* width: 100px; */
+    padding: 10px;
+}
